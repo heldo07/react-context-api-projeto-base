@@ -3,7 +3,7 @@
     {
       "nome": "heldo junior",
       "renda": "5000",
-      "orcamentoDiario": 46.66666666666666,
+      "orcamentoDiario": 36.66666666666666,
       "id": 1
     },
     {
@@ -121,6 +121,15 @@
       "data": "2026-02-11",
       "userId": 1,
       "id": 8
+    },
+    {
+      "nome": "Pirulito",
+      "valor": 10,
+      "tipo": "despesa",
+      "categoria": "",
+      "data": "2026-02-12",
+      "userId": 1,
+      "id": 9
     }
   ]
 }
